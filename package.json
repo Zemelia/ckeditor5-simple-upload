@@ -16,7 +16,6 @@
   ],
   "author": "pourquoi",
   "license": "MIT",
-  "bundleDependencies": false,
   "dependencies": {
     "@ckeditor/ckeditor5-core": "^10.0.0",
     "@ckeditor/ckeditor5-engine": "^10.0.0",
